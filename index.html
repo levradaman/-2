@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Максимальный трафик через текстовые платформы: Полный гайд 2025</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header class="header">
+        <div class="container">
+            <h1>Максимальный трафик через текстовые платформы: Полный гайд 2025</h1>
+            <p>Комплексный анализ лучших платформ для быстрого получения максимального трафика в РФ и международном сегменте</p>
+            
+            <nav class="nav">
+                <button class="btn btn--outline nav-btn active" data-section="platforms">Сравнение платформ</button>
+                <button class="btn btn--outline nav-btn" data-section="niches">Анализ по нишам</button>
+                <button class="btn btn--outline nav-btn" data-section="pitfalls">Подводные камни</button>
+                <button class="btn btn--outline nav-btn" data-section="restrictions">Блокировки и ограничения</button>
+                <button class="btn btn--outline nav-btn" data-section="american">Американский рынок</button>
+                <button class="btn btn--outline nav-btn" data-section="calculator">Калькулятор трафика</button>
+                <button class="btn btn--outline nav-btn" data-section="seo">Индексация и SEO</button>
+            </nav>
+        </div>
+    </header>
+
+    <main class="main">
+        <div class="container">
+            <!-- Платформы -->
+            <section id="platforms-section" class="section">
+                <div class="section-header">
+                    <h2>Сравнение платформ для максимального трафика</h2>
+                    <div class="filters">
+                        <select id="region-filter" class="form-control">
+                            <option value="">Все регионы</option>
+                            <option value="RU">Россия</option>
+                            <option value="Global">Международный</option>
+                        </select>
+                        <select id="difficulty-filter" class="form-control">
+                            <option value="">Любая сложность</option>
+                            <option value="Средний">Средний</option>
+                            <option value="Высокий">Высокий</option>
+                            <option value="Очень высокий">Очень высокий</option>
+                        </select>
+                        <input type="text" id="search-filter" class="form-control" placeholder="Поиск по названию...">
+                        <button class="btn btn--primary" id="export-csv">Экспорт CSV</button>
+                    </div>
+                </div>
+                
+                <div class="table-container">
+                    <table id="platforms-table" class="platforms-table">
+                        <thead>
+                            <tr>
+                                <th data-sort="name">Платформа</th>
+                                <th data-sort="region">Регион</th>
+                                <th data-sort="max_posts_per_day">Постов/день</th>
+                                <th data-sort="posting_interval">Интервал</th>
+                                <th data-sort="monthly_audience_russia">Аудитория РФ</th>
+                                <th data-sort="traffic_potential">Потенциал трафика</th>
+                                <th data-sort="difficulty">Сложность</th>
+                                <th data-sort="engagement_rate">Engagement</th>
+                                <th>Действия</th>
+                            </tr>
+                        </thead>
+                        <tbody id="platforms-tbody">
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- Ниши -->
+            <section id="niches-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Анализ по нишам</h2>
+                    <p>Выберите вашу нишу для получения персонализированных рекомендаций</p>
+                </div>
+                
+                <div class="niches-grid" id="niches-grid">
+                </div>
+            </section>
+
+            <!-- Подводные камни -->
+            <section id="pitfalls-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Подводные камни и риски платформ</h2>
+                    <p>Основные проблемы и ограничения каждой платформы</p>
+                </div>
+                
+                <div class="pitfalls-container" id="pitfalls-container">
+                </div>
+            </section>
+
+            <!-- Блокировки и ограничения -->
+            <section id="restrictions-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Блокировки и ограничения в РФ</h2>
+                    <p>Актуальная информация о заблокированных платформах и новых законах</p>
+                </div>
+                
+                <div class="restrictions-content">
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Заблокированные платформы</h3>
+                            <div id="blocked-platforms"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Новые законы 2025</h3>
+                            <div id="new-laws"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Американский рынок -->
+            <section id="american-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Американский рынок и англоязычные платформы</h2>
+                    <p>Стратегии для работы с международной аудиторией</p>
+                </div>
+                
+                <div class="american-content">
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Топ платформы США</h3>
+                            <div id="american-platforms"></div>
+                        </div>
+                    </div>
+                    
+                    <div class="card">
+                        <div class="card__body">
+                            <h3>Тренды контент-маркетинга 2025</h3>
+                            <div id="content-trends"></div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Калькулятор трафика -->
+            <section id="calculator-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Калькулятор потенциального трафика</h2>
+                    <p>Рассчитайте ожидаемый трафик для выбранных платформ</p>
+                </div>
+                
+                <div class="calculator">
+                    <div class="calculator-inputs">
+                        <div class="form-group">
+                            <label class="form-label">Выберите платформы:</label>
+                            <div id="platform-checkboxes"></div>
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="form-label">Постов в день:</label>
+                            <input type="number" id="posts-per-day" class="form-control" value="10" min="1" max="150">
+                        </div>
+                        
+                        <div class="form-group">
+                            <label class="form-label">Планируемый период (дней):</label>
+                            <input type="number" id="period-days" class="form-control" value="30" min="1">
+                        </div>
+                        
+                        <button class="btn btn--primary" id="calculate-traffic">Рассчитать</button>
+                    </div>
+                    
+                    <div class="calculator-results" id="calculator-results">
+                        <div class="chart-container" style="position: relative; height: 400px;">
+                            <canvas id="traffic-chart"></canvas>
+                        </div>
+                        <div id="traffic-summary"></div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- SEO и индексация -->
+            <section id="seo-section" class="section hidden">
+                <div class="section-header">
+                    <h2>Индексация контента поисковыми системами</h2>
+                    <p>Как контент с разных платформ индексируется в поисковиках</p>
+                </div>
+                
+                <div class="seo-content" id="seo-content">
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- Модальное окно с деталями платформы -->
+    <div class="modal hidden" id="platform-modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3 id="modal-title"></h3>
+                <button class="modal-close" id="modal-close">&times;</button>
+            </div>
+            <div class="modal-body" id="modal-body">
+            </div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,1275 @@
+{
+  "platforms": [
+    {
+      "name": "Яндекс Дзен",
+      "region": "RU",
+      "type": "Текстовая платформа",
+      "max_posts_per_day": 96,
+      "posting_interval": "Каждые 15 минут",
+      "monthly_audience_russia": "74%",
+      "monthly_audience_global": "75 млн",
+      "engagement_rate": "5.2%",
+      "traffic_potential": "9.5/10",
+      "difficulty": "Средний",
+      "monetization": "Партнерская программа",
+      "character_limit": "3500-6000 знаков",
+      "content_types": [
+        "Статьи",
+        "Посты",
+        "Видео",
+        "Карточки"
+      ],
+      "best_niches": [
+        "Финансы",
+        "Кулинария",
+        "Детские товары",
+        "Здоровье"
+      ],
+      "pitfalls": [
+        "Строгая модерация медицинского контента",
+        "Блокировка за дублированный контент",
+        "Низкая монетизация для новых авторов",
+        "Зависимость от алгоритмов"
+      ],
+      "recent_examples": [
+        "Новые правила инвестирования в 2025 году",
+        "Тренды детского питания после COVID",
+        "Как заработать на криптовалюте безопасно"
+      ]
+    },
+    {
+      "name": "ВКонтакте",
+      "region": "RU",
+      "type": "Социальная сеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Рекомендуется каждые 2-4 часа",
+      "monthly_audience_russia": "75%",
+      "monthly_audience_global": "100 млн",
+      "engagement_rate": "3.8%",
+      "traffic_potential": "8.2/10",
+      "difficulty": "Средний",
+      "monetization": "Реклама, донаты, VK Pay",
+      "character_limit": "15000 символов",
+      "content_types": [
+        "Посты",
+        "Статьи",
+        "Видео",
+        "Истории",
+        "Клипы"
+      ],
+      "best_niches": [
+        "Детские товары",
+        "Кулинария",
+        "Красота",
+        "Развлечения"
+      ],
+      "pitfalls": [
+        "Падающая популярность среди молодежи",
+        "Сложные алгоритмы продвижения",
+        "Высокая конкуренция с рекламой",
+        "Блокировки за спам"
+      ],
+      "recent_examples": [
+        "Обзор новых функций VK в 2025",
+        "Лайфхаки для родителей в новом году",
+        "Модные тренды весны 2025"
+      ]
+    },
+    {
+      "name": "Тинькофф Пульс",
+      "region": "RU",
+      "type": "Финансовая соцсеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Рекомендуется 2-3 раза в день",
+      "monthly_audience_russia": "15%",
+      "monthly_audience_global": "8 млн",
+      "engagement_rate": "4.1%",
+      "traffic_potential": "7.8/10",
+      "difficulty": "Высокий",
+      "monetization": "Партнерские программы",
+      "character_limit": "2000 символов",
+      "content_types": [
+        "Посты",
+        "Опросы",
+        "Инвестиционные идеи"
+      ],
+      "best_niches": [
+        "Финансы",
+        "Инвестиции",
+        "Криптовалюты",
+        "Бизнес"
+      ],
+      "pitfalls": [
+        "Узкая финансовая аудитория",
+        "Строгие правила по инвестсоветам",
+        "Высокая экспертность требуется",
+        "Модерация финансового контента"
+      ],
+      "recent_examples": [
+        "Анализ новых ETF в России 2025",
+        "Стратегии инвестирования в кризис",
+        "Обзор изменений в налоговом законодательстве"
+      ]
+    },
+    {
+      "name": "Одноклассники",
+      "region": "RU",
+      "type": "Социальная сеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "2-3 раза в день",
+      "monthly_audience_russia": "45%",
+      "monthly_audience_global": "70 млн",
+      "engagement_rate": "2.8%",
+      "traffic_potential": "6.5/10",
+      "difficulty": "Низкий",
+      "monetization": "Реклама",
+      "character_limit": "10000 символов",
+      "content_types": [
+        "Посты",
+        "Фото",
+        "Видео"
+      ],
+      "best_niches": [
+        "Кулинария",
+        "Дача",
+        "Ретро",
+        "Семья"
+      ],
+      "pitfalls": [
+        "Старая аудитория 35+",
+        "Низкий трафик для молодых брендов",
+        "Ограниченная монетизация",
+        "Устаревшие инструменты"
+      ],
+      "recent_examples": [
+        "Рецепты новогодних блюд 2025",
+        "Советы по выращиванию овощей",
+        "Семейные традиции в России"
+      ]
+    },
+    {
+      "name": "Habr",
+      "region": "RU",
+      "type": "IT-платформа",
+      "max_posts_per_day": 2,
+      "posting_interval": "1-2 статьи в день максимум",
+      "monthly_audience_russia": "70%",
+      "monthly_audience_global": "15 млн",
+      "engagement_rate": "7.8%",
+      "traffic_potential": "9.1/10",
+      "difficulty": "Очень высокий",
+      "monetization": "Партнерство, реклама, карьерная страница",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Статьи",
+        "Туториалы",
+        "Обзоры технологий"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Программирование",
+        "DevOps",
+        "Data Science"
+      ],
+      "pitfalls": [
+        "Очень высокие требования к качеству",
+        "Строгая модерация",
+        "Только IT-тематика",
+        "Токсичные комментарии"
+      ],
+      "recent_examples": [
+        "Обзор новых возможностей Python 3.12",
+        "Как настроить CI/CD с GitHub Actions",
+        "Тренды в разработке ИИ в 2025"
+      ]
+    },
+    {
+      "name": "VC.ru",
+      "region": "RU",
+      "type": "Бизнес-платформа",
+      "max_posts_per_day": 1,
+      "posting_interval": "1 статья в день максимум",
+      "monthly_audience_russia": "85%",
+      "monthly_audience_global": "8 млн",
+      "engagement_rate": "6.2%",
+      "traffic_potential": "8.7/10",
+      "difficulty": "Очень высокий",
+      "monetization": "Нативная реклама",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Статьи",
+        "Кейсы",
+        "Новости",
+        "Интервью"
+      ],
+      "best_niches": [
+        "Бизнес",
+        "Стартапы",
+        "Финансы",
+        "Технологии"
+      ],
+      "pitfalls": [
+        "Крайне высокий барьер входа",
+        "Строгий отбор редакцией",
+        "Только бизнес-тематика",
+        "Высокая конкуренция"
+      ],
+      "recent_examples": [
+        "Как стартапы выживают в 2025 году",
+        "Новые тренды в e-commerce России",
+        "Кейс масштабирования IT-команды"
+      ]
+    },
+    {
+      "name": "Telegram",
+      "region": "Global",
+      "type": "Мессенджер",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Без ограничений",
+      "monthly_audience_russia": "74%",
+      "monthly_audience_global": "900 млн",
+      "engagement_rate": "6.8%",
+      "traffic_potential": "9.8/10",
+      "difficulty": "Высокий",
+      "monetization": "Реклама, подписки, донаты, Stars",
+      "character_limit": "4096 символов на сообщение",
+      "content_types": [
+        "Текст",
+        "Медиа",
+        "Файлы",
+        "Опросы",
+        "Боты"
+      ],
+      "best_niches": [
+        "Финансы",
+        "Технологии",
+        "Новости",
+        "Крипто"
+      ],
+      "pitfalls": [
+        "Нужна база подписчиков для старта",
+        "Отсутствие встроенного поиска",
+        "Спам-блокировки",
+        "Сложность привлечения новых подписчиков"
+      ],
+      "recent_examples": [
+        "Ежедневная сводка криптовалют",
+        "Анализ технологических трендов",
+        "Инсайды из мира стартапов"
+      ]
+    },
+    {
+      "name": "RuTube",
+      "region": "RU",
+      "type": "Видеоплатформа",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "1-3 видео в день",
+      "monthly_audience_russia": "25%",
+      "monthly_audience_global": "30 млн",
+      "engagement_rate": "3.2%",
+      "traffic_potential": "6.8/10",
+      "difficulty": "Средний",
+      "monetization": "Реклама, донаты",
+      "character_limit": "5000 символов в описании",
+      "content_types": [
+        "Видео",
+        "Shorts",
+        "Прямые трансляции"
+      ],
+      "best_niches": [
+        "Развлечения",
+        "Обучение",
+        "Блоги",
+        "Технологии"
+      ],
+      "pitfalls": [
+        "Низкая популярность vs YouTube",
+        "Ограниченные инструменты аналитики",
+        "Малая международная аудитория",
+        "Технические проблемы платформы"
+      ],
+      "recent_examples": [
+        "Обзор российских мобильных игр",
+        "Туториалы по работе с нейросетями",
+        "Влоги о жизни в регионах России"
+      ]
+    },
+    {
+      "name": "X (Twitter)",
+      "region": "Global",
+      "type": "Микроблог",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "3-10 постов рекомендуется",
+      "monthly_audience_russia": "15%",
+      "monthly_audience_global": "450 млн",
+      "engagement_rate": "1.8%",
+      "traffic_potential": "7.2/10",
+      "difficulty": "Высокий",
+      "monetization": "X Premium, спонсорство, Creator Revenue",
+      "character_limit": "280 символов (4000 с Premium)",
+      "content_types": [
+        "Твиты",
+        "Треды",
+        "Spaces",
+        "Видео"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Финансы",
+        "Новости",
+        "Крипто"
+      ],
+      "pitfalls": [
+        "Высокая токсичность",
+        "Быстрая потеря актуальности постов",
+        "Низкий охват в РФ",
+        "Жесткие ограничения по символам"
+      ],
+      "recent_examples": [
+        "Анализ новых функций GPT-5",
+        "Обсуждение трендов Web3",
+        "Комментарии к технологическим новостям"
+      ]
+    },
+    {
+      "name": "Reddit",
+      "region": "Global",
+      "type": "Форум",
+      "max_posts_per_day": "Зависит от кармы",
+      "posting_interval": "Новые: 1 пост в 3 дня",
+      "monthly_audience_russia": "2%",
+      "monthly_audience_global": "1.1 млрд",
+      "engagement_rate": "4.5%",
+      "traffic_potential": "8.9/10",
+      "difficulty": "Очень высокий",
+      "monetization": "Реклама, Gold Awards",
+      "character_limit": "40000 символов",
+      "content_types": [
+        "Текст",
+        "Ссылки",
+        "Изображения",
+        "Видео"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Строительство",
+        "Финансы",
+        "Gaming"
+      ],
+      "pitfalls": [
+        "Сложная система кармы",
+        "Строгие правила subreddit",
+        "Высокий риск бана за саморекламу",
+        "Низкий охват в РФ сегменте"
+      ],
+      "recent_examples": [
+        "AMA с основателями AI стартапов",
+        "Обсуждение новых криптопроектов",
+        "Технические гайды по программированию"
+      ]
+    },
+    {
+      "name": "Medium",
+      "region": "Global",
+      "type": "Блог-платформа",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "3-5 статей в неделю",
+      "monthly_audience_russia": "5%",
+      "monthly_audience_global": "100 млн",
+      "engagement_rate": "4.2%",
+      "traffic_potential": "8.1/10",
+      "difficulty": "Высокий",
+      "monetization": "Partner Program, Sponsorship",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Статьи",
+        "Эссе",
+        "Туториалы"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Бизнес",
+        "Финансы",
+        "Саморазвитие"
+      ],
+      "pitfalls": [
+        "Высокая конкуренция",
+        "Необходимость английского языка",
+        "Платный доступ к контенту",
+        "Алгоритм favors established writers"
+      ],
+      "recent_examples": [
+        "The Future of AI in 2025",
+        "Building Startups in Economic Uncertainty",
+        "Crypto Trends Analysis"
+      ]
+    },
+    {
+      "name": "LinkedIn",
+      "region": "Global",
+      "type": "Профессиональная сеть",
+      "max_posts_per_day": 2,
+      "posting_interval": "1-2 поста в день",
+      "monthly_audience_russia": "8%",
+      "monthly_audience_global": "900 млн",
+      "engagement_rate": "2.4%",
+      "traffic_potential": "7.8/10",
+      "difficulty": "Средний",
+      "monetization": "Спонсорский контент, Lead Generation",
+      "character_limit": "3000 символов (посты)",
+      "content_types": [
+        "Посты",
+        "Статьи",
+        "Карусели",
+        "Видео"
+      ],
+      "best_niches": [
+        "Бизнес",
+        "Строительство",
+        "Финансы",
+        "B2B"
+      ],
+      "pitfalls": [
+        "Узкая B2B аудитория",
+        "Строгие профессиональные рамки",
+        "Низкая толерантность к продающему контенту",
+        "Ограниченный охват без Premium"
+      ],
+      "recent_examples": [
+        "Leadership Lessons from 2024",
+        "B2B Sales Strategies That Work",
+        "Future of Remote Work in 2025"
+      ]
+    },
+    {
+      "name": "Substack",
+      "region": "Global",
+      "type": "Newsletter платформа",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "1-3 рассылки в неделю",
+      "monthly_audience_russia": "1%",
+      "monthly_audience_global": "35 млн",
+      "engagement_rate": "8.1%",
+      "traffic_potential": "7.5/10",
+      "difficulty": "Высокий",
+      "monetization": "Платные подписки (комиссия 10%)",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Рассылки",
+        "Статьи",
+        "Подкасты"
+      ],
+      "best_niches": [
+        "Финансы",
+        "Технологии",
+        "Политика",
+        "Журналистика"
+      ],
+      "pitfalls": [
+        "Нужна база подписчиков с нуля",
+        "Комиссия 10% с платных подписок",
+        "Низкое обнаружение без промо",
+        "Зависимость от email-алгоритмов"
+      ],
+      "recent_examples": [
+        "Weekly Tech Newsletter Analysis",
+        "Investment Insights for 2025",
+        "Political Commentary Series"
+      ]
+    },
+    {
+      "name": "Instagram",
+      "region": "Global",
+      "type": "Визуальная соцсеть",
+      "max_posts_per_day": 10,
+      "posting_interval": "1-2 поста в день",
+      "monthly_audience_russia": "35%",
+      "monthly_audience_global": "2 млрд",
+      "engagement_rate": "1.22%",
+      "traffic_potential": "8.8/10",
+      "difficulty": "Высокий",
+      "monetization": "Реклама, Creator Fund, Shopping",
+      "character_limit": "2200 символов в подписи",
+      "content_types": [
+        "Фото",
+        "Видео",
+        "Reels",
+        "Stories",
+        "Карусели"
+      ],
+      "best_niches": [
+        "Красота",
+        "Мода",
+        "Путешествия",
+        "Еда",
+        "Фитнес"
+      ],
+      "pitfalls": [
+        "Высокая конкуренция за внимание",
+        "Алгоритм сложно предсказать",
+        "Нужен визуальный контент",
+        "Shadowban за нарушения"
+      ],
+      "recent_examples": [
+        "Beauty trends 2025 carousel",
+        "Travel guides for digital nomads",
+        "Fitness routines for busy people"
+      ]
+    },
+    {
+      "name": "TikTok",
+      "region": "Global",
+      "type": "Короткие видео",
+      "max_posts_per_day": "1-4 рекомендуется",
+      "posting_interval": "1-4 видео в день",
+      "monthly_audience_russia": "25%",
+      "monthly_audience_global": "1 млрд",
+      "engagement_rate": "5.96%",
+      "traffic_potential": "9.3/10",
+      "difficulty": "Средний",
+      "monetization": "Creator Fund, Brand partnerships, Live gifts",
+      "character_limit": "2200 символов в описании",
+      "content_types": [
+        "Короткие видео",
+        "Live",
+        "Stories"
+      ],
+      "best_niches": [
+        "Развлечения",
+        "Образование",
+        "Лайфхаки",
+        "Танцы"
+      ],
+      "pitfalls": [
+        "Нестабильность платформы (блокировки)",
+        "Высокая конкуренция",
+        "Алгоритм непредсказуем",
+        "Нужен видеоконтент"
+      ],
+      "recent_examples": [
+        "Educational content on AI tools",
+        "Life hacks for productivity",
+        "Quick cooking tutorials"
+      ]
+    },
+    {
+      "name": "Facebook",
+      "region": "Global",
+      "type": "Социальная сеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "1-2 поста в день",
+      "monthly_audience_russia": "20%",
+      "monthly_audience_global": "3 млрд",
+      "engagement_rate": "0.25%",
+      "traffic_potential": "6.8/10",
+      "difficulty": "Высокий",
+      "monetization": "Реклама, Creator Bonus, Stars",
+      "character_limit": "63206 символов",
+      "content_types": [
+        "Посты",
+        "Видео",
+        "Stories",
+        "Reels"
+      ],
+      "best_niches": [
+        "Бизнес",
+        "События",
+        "Сообщества",
+        "Новости"
+      ],
+      "pitfalls": [
+        "Падающий органический охват",
+        "Старая аудитория",
+        "Сложные рекламные политики",
+        "Низкое вовлечение"
+      ],
+      "recent_examples": [
+        "Community events promotion",
+        "Business success stories",
+        "Local news and updates"
+      ]
+    },
+    {
+      "name": "YouTube",
+      "region": "Global",
+      "type": "Видеоплатформа",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "1-2 видео в день оптимально",
+      "monthly_audience_russia": "60%",
+      "monthly_audience_global": "2.7 млрд",
+      "engagement_rate": "1.63%",
+      "traffic_potential": "9.7/10",
+      "difficulty": "Высокий",
+      "monetization": "AdSense, Channel memberships, Super Chat",
+      "character_limit": "5000 символов в описании",
+      "content_types": [
+        "Видео",
+        "Shorts",
+        "Live streams",
+        "Community posts"
+      ],
+      "best_niches": [
+        "Образование",
+        "Развлечения",
+        "Технологии",
+        "Gaming"
+      ],
+      "pitfalls": [
+        "Высокая конкуренция",
+        "Сложные требования монетизации",
+        "Нужен качественный видеоконтент",
+        "Постоянные изменения алгоритма"
+      ],
+      "recent_examples": [
+        "AI tutorials and reviews",
+        "Tech product unboxings",
+        "Educational programming content"
+      ]
+    },
+    {
+      "name": "Pinterest",
+      "region": "Global",
+      "type": "Визуальный поиск",
+      "max_posts_per_day": 25,
+      "posting_interval": "3-25 пинов в день",
+      "monthly_audience_russia": "5%",
+      "monthly_audience_global": "450 млн",
+      "engagement_rate": "0.20%",
+      "traffic_potential": "8.4/10",
+      "difficulty": "Средний",
+      "monetization": "Shopping ads, Promoted pins",
+      "character_limit": "500 символов в описании",
+      "content_types": [
+        "Pins",
+        "Idea pins",
+        "Shopping pins",
+        "Story pins"
+      ],
+      "best_niches": [
+        "DIY",
+        "Рецепты",
+        "Мода",
+        "Дизайн интерьера"
+      ],
+      "pitfalls": [
+        "Нужен визуальный контент",
+        "Низкий охват в РФ",
+        "Женская аудитория доминирует",
+        "Медленный рост"
+      ],
+      "recent_examples": [
+        "2025 interior design trends",
+        "Healthy recipe collections",
+        "DIY home organization ideas"
+      ]
+    },
+    {
+      "name": "Threads",
+      "region": "Global",
+      "type": "Микроблог",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько раз в день",
+      "monthly_audience_russia": "2%",
+      "monthly_audience_global": "320 млн",
+      "engagement_rate": "2.1%",
+      "traffic_potential": "7.1/10",
+      "difficulty": "Средний",
+      "monetization": "Пока недоступна",
+      "character_limit": "500 символов",
+      "content_types": [
+        "Текстовые посты",
+        "Изображения",
+        "Видео",
+        "Карусели"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Новости",
+        "Мнения",
+        "Lifestyle"
+      ],
+      "pitfalls": [
+        "Новая платформа",
+        "Низкий охват в РФ",
+        "Нет монетизации",
+        "Неясное будущее платформы"
+      ],
+      "recent_examples": [
+        "Tech industry discussions",
+        "Current events commentary",
+        "Personal brand building"
+      ]
+    },
+    {
+      "name": "Snapchat",
+      "region": "Global",
+      "type": "Мобильный мессенджер",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько снэпов в день",
+      "monthly_audience_russia": "3%",
+      "monthly_audience_global": "750 млн",
+      "engagement_rate": "3.8%",
+      "traffic_potential": "6.2/10",
+      "difficulty": "Высокий",
+      "monetization": "Snap Ads, Creator rewards",
+      "character_limit": "250 символов в подписи",
+      "content_types": [
+        "Snaps",
+        "Stories",
+        "Spotlight",
+        "Bitmoji"
+      ],
+      "best_niches": [
+        "Развлечения",
+        "Lifestyle",
+        "Fashion",
+        "Gaming"
+      ],
+      "pitfalls": [
+        "Молодая аудитория Gen Z",
+        "Контент исчезает",
+        "Сложная навигация для новичков",
+        "Низкий охват в РФ"
+      ],
+      "recent_examples": [
+        "Behind-the-scenes content",
+        "Day-in-the-life stories",
+        "Product launches for Gen Z"
+      ]
+    },
+    {
+      "name": "Discord",
+      "region": "Global",
+      "type": "Gaming мессенджер",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Постоянное общение",
+      "monthly_audience_russia": "8%",
+      "monthly_audience_global": "150 млн",
+      "engagement_rate": "7.2%",
+      "traffic_potential": "7.9/10",
+      "difficulty": "Высокий",
+      "monetization": "Server boosts, Nitro",
+      "character_limit": "2000 символов на сообщение",
+      "content_types": [
+        "Текстовые сообщения",
+        "Голосовые чаты",
+        "Стримы"
+      ],
+      "best_niches": [
+        "Gaming",
+        "Технологии",
+        "Сообщества",
+        "NFT/Crypto"
+      ],
+      "pitfalls": [
+        "Нужно создавать сообщество",
+        "Gaming-ориентированная аудитория",
+        "Сложная модерация",
+        "Нет прямой монетизации контента"
+      ],
+      "recent_examples": [
+        "Tech community discussions",
+        "Gaming strategy sharing",
+        "Crypto project communities"
+      ]
+    },
+    {
+      "name": "Twitch",
+      "region": "Global",
+      "type": "Стриминговая платформа",
+      "max_posts_per_day": "Стримы без лимитов",
+      "posting_interval": "Регулярные стримы",
+      "monthly_audience_russia": "5%",
+      "monthly_audience_global": "140 млн",
+      "engagement_rate": "8.5%",
+      "traffic_potential": "8.2/10",
+      "difficulty": "Очень высокий",
+      "monetization": "Subscriptions, Bits, Donations, Ads",
+      "character_limit": "500 символов в чате",
+      "content_types": [
+        "Live streams",
+        "Clips",
+        "VODs"
+      ],
+      "best_niches": [
+        "Gaming",
+        "Just Chatting",
+        "Art",
+        "Music"
+      ],
+      "pitfalls": [
+        "Нужен живой контент",
+        "Высокая конкуренция стримеров",
+        "Непредсказуемые доходы",
+        "Gaming-фокус аудитории"
+      ],
+      "recent_examples": [
+        "Educational coding streams",
+        "Art creation process",
+        "Gaming tournaments coverage"
+      ]
+    },
+    {
+      "name": "Clubhouse",
+      "region": "Global",
+      "type": "Аудио-соцсеть",
+      "max_posts_per_day": "Комнаты без лимитов",
+      "posting_interval": "Регулярные комнаты",
+      "monthly_audience_russia": "2%",
+      "monthly_audience_global": "10 млн",
+      "engagement_rate": "4.1%",
+      "traffic_potential": "5.8/10",
+      "difficulty": "Высокий",
+      "monetization": "Creator payments, Tips",
+      "character_limit": "280 символов в био",
+      "content_types": [
+        "Audio rooms",
+        "Events"
+      ],
+      "best_niches": [
+        "Бизнес",
+        "Образование",
+        "Политика",
+        "Lifestyle"
+      ],
+      "pitfalls": [
+        "Падающая популярность",
+        "Только аудио формат",
+        "iOS-ориентированная аудитория",
+        "Сложно записывать контент"
+      ],
+      "recent_examples": [
+        "Industry expert discussions",
+        "Startup pitch sessions",
+        "Educational workshops"
+      ]
+    },
+    {
+      "name": "Quora",
+      "region": "Global",
+      "type": "Q&A платформа",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько ответов в день",
+      "monthly_audience_russia": "3%",
+      "monthly_audience_global": "400 млн",
+      "engagement_rate": "3.7%",
+      "traffic_potential": "7.6/10",
+      "difficulty": "Средний",
+      "monetization": "Partner Program, Advertising",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Ответы на вопросы",
+        "Статьи",
+        "Spaces"
+      ],
+      "best_niches": [
+        "Образование",
+        "Технологии",
+        "Бизнес",
+        "Наука"
+      ],
+      "pitfalls": [
+        "Нужна экспертность для качественных ответов",
+        "Модерация может блокировать",
+        "Английский язык обязателен",
+        "Медленный рост аудитории"
+      ],
+      "recent_examples": [
+        "Technical programming answers",
+        "Business strategy explanations",
+        "Science concept breakdowns"
+      ]
+    },
+    {
+      "name": "Tumblr",
+      "region": "Global",
+      "type": "Микроблог платформа",
+      "max_posts_per_day": 250,
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "2%",
+      "monthly_audience_global": "135 млн",
+      "engagement_rate": "1.8%",
+      "traffic_potential": "6.4/10",
+      "difficulty": "Средний",
+      "monetization": "Post+ subscriptions, Tips",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Текст",
+        "Фото",
+        "GIF",
+        "Видео",
+        "Аудио"
+      ],
+      "best_niches": [
+        "Искусство",
+        "Фэндомы",
+        "Мемы",
+        "Lifestyle"
+      ],
+      "pitfalls": [
+        "Специфическая молодая аудитория",
+        "Низкая коммерческая ценность",
+        "Падающая популярность",
+        "Сложная монетизация"
+      ],
+      "recent_examples": [
+        "Art showcase posts",
+        "Fandom discussions",
+        "Creative writing pieces"
+      ]
+    },
+    {
+      "name": "BeReal",
+      "region": "Global",
+      "type": "Authentic social",
+      "max_posts_per_day": 1,
+      "posting_interval": "1 пост в день в случайное время",
+      "monthly_audience_russia": "1%",
+      "monthly_audience_global": "25 млн",
+      "engagement_rate": "6.3%",
+      "traffic_potential": "5.2/10",
+      "difficulty": "Низкий",
+      "monetization": "Пока недоступна",
+      "character_limit": "140 символов в подписи",
+      "content_types": [
+        "Двойные фото",
+        "Комментарии"
+      ],
+      "best_niches": [
+        "Личные бренды",
+        "Authentic lifestyle",
+        "Gen Z контент"
+      ],
+      "pitfalls": [
+        "Очень молодая аудитория",
+        "Нет монетизации",
+        "Ограниченный формат",
+        "Непонятное будущее"
+      ],
+      "recent_examples": [
+        "Authentic daily moments",
+        "Behind-the-scenes content",
+        "Real-life brand experiences"
+      ]
+    },
+    {
+      "name": "Mastodon",
+      "region": "Global",
+      "type": "Децентрализованная соцсеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Зависит от сервера",
+      "monthly_audience_russia": "0.5%",
+      "monthly_audience_global": "8 млн",
+      "engagement_rate": "2.8%",
+      "traffic_potential": "4.9/10",
+      "difficulty": "Очень высокий",
+      "monetization": "Донаты, Patreon",
+      "character_limit": "500 символов (по умолчанию)",
+      "content_types": [
+        "Toots",
+        "Изображения",
+        "Видео"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Активизм",
+        "Open Source",
+        "Приватность"
+      ],
+      "pitfalls": [
+        "Сложная концепция для новичков",
+        "Маленькая аудитория",
+        "Фрагментированные сообщества",
+        "Нет централизованной монетизации"
+      ],
+      "recent_examples": [
+        "Open source project discussions",
+        "Privacy advocacy content",
+        "Tech community building"
+      ]
+    },
+    {
+      "name": "Bluesky",
+      "region": "Global",
+      "type": "Децентрализованный микроблог",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "0.3%",
+      "monthly_audience_global": "13 млн",
+      "engagement_rate": "3.2%",
+      "traffic_potential": "6.1/10",
+      "difficulty": "Высокий",
+      "monetization": "Пока недоступна",
+      "character_limit": "300 символов",
+      "content_types": [
+        "Посты",
+        "Изображения",
+        "Ссылки"
+      ],
+      "best_niches": [
+        "Технологии",
+        "Новости",
+        "Политика",
+        "Социальные вопросы"
+      ],
+      "pitfalls": [
+        "Очень новая платформа",
+        "Invite-only система",
+        "Нет монетизации",
+        "Неопределенное будущее"
+      ],
+      "recent_examples": [
+        "Tech industry commentary",
+        "Social media discussions",
+        "News and current events"
+      ]
+    },
+    {
+      "name": "Minds",
+      "region": "Global",
+      "type": "Blockchain social",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "1%",
+      "monthly_audience_global": "6 млн",
+      "engagement_rate": "2.1%",
+      "traffic_potential": "5.4/10",
+      "difficulty": "Высокий",
+      "monetization": "Tokens, Tips, Subscriptions",
+      "character_limit": "5000 символов",
+      "content_types": [
+        "Посты",
+        "Блоги",
+        "Видео",
+        "Изображения"
+      ],
+      "best_niches": [
+        "Крипто",
+        "Свобода слова",
+        "Альтернативные медиа"
+      ],
+      "pitfalls": [
+        "Малая аудитория",
+        "Политически поляризованная",
+        "Сложная токен-экономика",
+        "Низкая mainstream привлекательность"
+      ],
+      "recent_examples": [
+        "Crypto market analysis",
+        "Alternative media content",
+        "Free speech discussions"
+      ]
+    },
+    {
+      "name": "Gab",
+      "region": "Global",
+      "type": "Альтернативная соцсеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "0.5%",
+      "monthly_audience_global": "4 млн",
+      "engagement_rate": "1.9%",
+      "traffic_potential": "4.1/10",
+      "difficulty": "Высокий",
+      "monetization": "GabPro subscriptions",
+      "character_limit": "3000 символов",
+      "content_types": [
+        "Посты",
+        "Изображения",
+        "Видео"
+      ],
+      "best_niches": [
+        "Политика",
+        "Альтернативные новости",
+        "Консервативный контент"
+      ],
+      "pitfalls": [
+        "Противоречивая репутация",
+        "Ограниченная аудитория",
+        "Банирование в других платформах",
+        "Низкий mainstream охват"
+      ],
+      "recent_examples": [
+        "Political commentary",
+        "Alternative news sources",
+        "Conservative viewpoints"
+      ]
+    },
+    {
+      "name": "Parler",
+      "region": "Global",
+      "type": "Микроблог",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "0.2%",
+      "monthly_audience_global": "2 млн",
+      "engagement_rate": "1.4%",
+      "traffic_potential": "3.8/10",
+      "difficulty": "Высокий",
+      "monetization": "Пока ограничена",
+      "character_limit": "1000 символов",
+      "content_types": [
+        "Parleys",
+        "Изображения",
+        "Видео"
+      ],
+      "best_niches": [
+        "Политика",
+        "Новости",
+        "Свобода слова"
+      ],
+      "pitfalls": [
+        "Нестабильная платформа",
+        "Очень маленькая аудитория",
+        "Политические противоречия",
+        "Ограниченная функциональность"
+      ],
+      "recent_examples": [
+        "Political discussions",
+        "News commentary",
+        "Free speech advocacy"
+      ]
+    },
+    {
+      "name": "Gettr",
+      "region": "Global",
+      "type": "Микроблог",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "0.3%",
+      "monthly_audience_global": "3 млн",
+      "engagement_rate": "1.7%",
+      "traffic_potential": "4.2/10",
+      "difficulty": "Высокий",
+      "monetization": "Tips, Subscriptions",
+      "character_limit": "777 символов",
+      "content_types": [
+        "Посты",
+        "Изображения",
+        "Видео",
+        "Live"
+      ],
+      "best_niches": [
+        "Политика",
+        "Новости",
+        "Бизнес"
+      ],
+      "pitfalls": [
+        "Маленькая аудитория",
+        "Низкое международное присутствие",
+        "Политическая поляризация",
+        "Ограниченные функции"
+      ],
+      "recent_examples": [
+        "Business networking content",
+        "Political commentary",
+        "News and current events"
+      ]
+    },
+    {
+      "name": "Truth Social",
+      "region": "Global",
+      "type": "Микроблог",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "0.1%",
+      "monthly_audience_global": "2 млн",
+      "engagement_rate": "1.3%",
+      "traffic_potential": "3.5/10",
+      "difficulty": "Высокий",
+      "monetization": "Пока недоступна",
+      "character_limit": "500 символов",
+      "content_types": [
+        "Truth posts",
+        "Re-Truths",
+        "Изображения"
+      ],
+      "best_niches": [
+        "Политика",
+        "Консервативный контент"
+      ],
+      "pitfalls": [
+        "Очень ограниченная аудитория",
+        "Политически поляризованная",
+        "Географические ограничения",
+        "Нет монетизации"
+      ],
+      "recent_examples": [
+        "Conservative political content",
+        "News commentary",
+        "Political opinions"
+      ]
+    },
+    {
+      "name": "MeWe",
+      "region": "Global",
+      "type": "Приватная соцсеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Несколько постов в день",
+      "monthly_audience_russia": "1%",
+      "monthly_audience_global": "20 млн",
+      "engagement_rate": "2.3%",
+      "traffic_potential": "5.1/10",
+      "difficulty": "Средний",
+      "monetization": "Premium subscriptions",
+      "character_limit": "5000 символов",
+      "content_types": [
+        "Посты",
+        "Страницы",
+        "Группы",
+        "Чат"
+      ],
+      "best_niches": [
+        "Приватность",
+        "Семейные группы",
+        "Сообщества"
+      ],
+      "pitfalls": [
+        "Медленный рост",
+        "Ограниченная популярность",
+        "Сложная монетизация",
+        "Конкуренция с mainstream платформами"
+      ],
+      "recent_examples": [
+        "Privacy-focused content",
+        "Family sharing posts",
+        "Community discussions"
+      ]
+    },
+    {
+      "name": "Diaspora",
+      "region": "Global",
+      "type": "Децентрализованная соцсеть",
+      "max_posts_per_day": "Без лимитов",
+      "posting_interval": "Зависит от узла",
+      "monthly_audience_russia": "0.2%",
+      "monthly_audience_global": "1 млн",
+      "engagement_rate": "1.8%",
+      "traffic_potential": "3.2/10",
+      "difficulty": "Очень высокий",
+      "monetization": "Донаты сообществу",
+      "character_limit": "Без ограничений",
+      "content_types": [
+        "Посты",
+        "Изображения",
+        "Ссылки"
+      ],
+      "best_niches": [
+        "Open Source",
+        "Приватность",
+        "Активизм"
+      ],
+      "pitfalls": [
+        "Крайне маленькая аудитория",
+        "Техническая сложность",
+        "Нет централизованной монетизации",
+        "Низкая user experience"
+      ],
+      "recent_examples": [
+        "Open source advocacy",
+        "Privacy rights discussions",
+        "Decentralized web content"
+      ]
+    }
+  ]
+}
